@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/csc631_hw2_indiv.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,1 +1,2 @@
-# CSC631HW3
+# CSC631HomeWork3
+# Tony Rodriguez, Ibrahim Aboudamous
